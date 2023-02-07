@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(8, 4, 4);
+    overflow: hidden;
+}
+
+p {
+    line-height: 14px;
+    background-image: url(boseman.webp);
+    background-repeat: no-repeat;
+    background-size: 80vh;
+    background-position: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0);
+ 
